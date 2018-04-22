@@ -1,0 +1,9 @@
+{
+    "name": "opendaje/ckan-comaparator",
+    "description": "demo app",
+    "type": "project",
+    "require": {
+        "league/csv": "^9.1"
+    },
+    "minimum-stability": "stable"
+}
