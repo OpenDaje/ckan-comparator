@@ -1,0 +1,2 @@
+# ckan-comparator
+Demo application
